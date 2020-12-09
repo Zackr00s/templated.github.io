@@ -32,7 +32,7 @@ header{
    background-position: center;
    background-attachment: fixed;
    z-index: 100000;
-   background-color: gray;
+   background-color: red;
 }
 .box{
     width: 100%;
