@@ -32,7 +32,7 @@ header{
    background-position: center;
    background-attachment: fixed;
    z-index: 100000;
-   background-color: red;
+   background-color: gray;
 }
 .box{
     width: 100%;
@@ -132,7 +132,7 @@ padding-top: 40px;
 }
 .background-image
 {
-    background: url(/css/clay-banks-u27Rrbs9Dwc-unsplash.jpg);
+    background: url("/css/clay-banks-u27Rrbs9Dwc-unsplash.jpg");
     background-position: center;
     background-attachment: fixed;
     background-size: cover;
